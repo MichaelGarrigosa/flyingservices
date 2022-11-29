@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="uJoGFFF197RygtFO-Yu8" name="Verkaufsprozess">
-        <mxGraphModel dx="1952" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="1592" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="50-nOHwhQRDhbMGVzeTb-0"/>
                 <mxCell id="50-nOHwhQRDhbMGVzeTb-1" parent="50-nOHwhQRDhbMGVzeTb-0"/>
@@ -152,7 +152,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="yb_EHzmBLXrAMu9-7WT_" name="FylingServices Internetseite">
-        <mxGraphModel dx="1305" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="1106" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -628,7 +628,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="jDkDj0V95qEzfzcV7rWy" name="MSQL">
-        <mxGraphModel dx="1952" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="2304" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="CQF4R4T9s_CZu7_2-ltj-0"/>
                 <mxCell id="CQF4R4T9s_CZu7_2-ltj-1" parent="CQF4R4T9s_CZu7_2-ltj-0"/>
@@ -842,7 +842,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="U1cJ7jqhiPAbjIPUL1_h" name="Mobiltelefon Ansicht">
-        <mxGraphModel dx="1952" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="2304" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="oqGOkjuSWBwcKW8KHkYK-0"/>
                 <mxCell id="oqGOkjuSWBwcKW8KHkYK-1" parent="oqGOkjuSWBwcKW8KHkYK-0"/>
@@ -1018,7 +1018,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="62PxrSvH1FHIUMgKt_7I" name="ZusatzInformationen">
-        <mxGraphModel dx="783" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1135" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="4eRxSmcw6j3ViDfEhNEI-0"/>
                 <mxCell id="4eRxSmcw6j3ViDfEhNEI-1" parent="4eRxSmcw6j3ViDfEhNEI-0"/>
