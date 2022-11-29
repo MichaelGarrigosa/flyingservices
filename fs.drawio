@@ -8,7 +8,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="50-nOHwhQRDhbMGVzeTb-67" value="Order prozess" style="html=1;fillColor=#80FF00;" parent="50-nOHwhQRDhbMGVzeTb-1" vertex="1">
-                    <mxGeometry x="-770" y="-850" width="88" height="50" as="geometry"/>
+                    <mxGeometry x="-830" y="-850" width="88" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="50-nOHwhQRDhbMGVzeTb-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" parent="50-nOHwhQRDhbMGVzeTb-1" source="50-nOHwhQRDhbMGVzeTb-70" target="50-nOHwhQRDhbMGVzeTb-71" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
